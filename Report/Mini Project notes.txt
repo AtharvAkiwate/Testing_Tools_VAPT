@@ -1,0 +1,20 @@
+Mini Project 2: Testing Tools (VAPT)
+
+Target Machine:
+Metasploitable2
+
+Attacker Machine:
+Kali Linux
+
+Target IP:
+192.168.125.129
+
+Attacker IP:
+192.168.125.128
+
+Lab Environment:
+VMware Workstation
+NAT Network
+
+Verification:
+Connectivity verified successfully using ICMP Ping.
